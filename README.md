@@ -16,7 +16,7 @@
 - This repository is under construction, I am finalizing the code.Please stay tuned!..
 ```
 
-![Image description](https://github.com/GBuenaflor/01azure-aks-calico/blob/master/Images/GB-AKS-Calico01.png)
+![Image description](https://github.com/GBuenaflor/01azure-aks-calico/blob/master/Images/GB-AKS-Calico02.png)
 
 ```diff
 - This repository is under construction, I am finalizing the code.Please stay tuned!..
